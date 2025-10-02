@@ -4,13 +4,15 @@ This project implements a deep learning model using a pre-trained VGG19 architec
 
 ## Project Structure
 
+```
 Pneumonia-Detection/
-├── data/ # Dataset directory
-├── models/ # Saved model weights
-├── archive/ # Archived models and experiments
-├── README.md # This file
-├── requirements.txt # Python dependencies
-└── Pneumonia_detection.ipynb
+├── data/                        # Dataset directory
+├── models/                      # Saved model weights  
+├── archive/                     # Archived models and experiments
+├── README.md                    # This file
+├── requirements.txt             # Python dependencies
+└── Pneumonia_detection.ipynb    # Main Jupyter notebook
+```
 
 ## Dataset
 
