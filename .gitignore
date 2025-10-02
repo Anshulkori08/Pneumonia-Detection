@@ -1,0 +1,19 @@
+# Ignore data folders
+chest_xray/
+test/
+train/
+val/
+
+# Ignore model files
+*.h5
+*.hdf5
+model_weights/
+models/
+
+
+# Ignore Jupyter and system files
+.ipynb_checkpoints/
+.DS_Store
+Thumbs.db
+__pycache__/
+*.pyc
